@@ -1,0 +1,11 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv package library (renv.lock is tracked)
+renv/library/
+renv/staging/
+
+# raw data (see data/raw/README.md) and generated output
+output/
